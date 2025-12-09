@@ -54,7 +54,7 @@
         </filter>
     </defs>
 
-    <rect x="10"  width="800" height="250" rx="20"
+    <rect  width="800" height="250" rx="20"
           fill="rgb(101,109,107, 0.1)"
           stroke-width="2"
           stroke="rgba(221, 221, 245, 0.2)"
